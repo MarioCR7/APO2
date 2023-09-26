@@ -1,8 +1,8 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# Aplicacion de funciones y aplicaciones en java (eclipse)
+# Aplicación de tipos de funciones
 
-S hace uso de diferentes tipos de funciones 
+Se trabaja especificamente con varios conceptos de funciones y lo que trata de ingresar datos por teclado, se hace la utilización de JOptionPane, Scanner, ciclos como el for, while, switch.
 
 ## Empezando
 
@@ -13,23 +13,26 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
-Give examples
+Tener instalado eclipse
+Tener conocimiento acerca de las funciones para trabajar mas eficazmente
+Tener conocimiento de ciclos
 ```
 
 ### Instalación
 
 Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
 
-Di cuál será el paso.
+Paso 1
 
 ```
-Give the example
+Ir a tu navegador de preferencia y buscar eclipse y descargarlo, en su ultima version
 ```
 
-Y repetir
+Paso 2
 
 ```
-until finished
+Crear un packcage de java y una clase con el nombre que prefieras
+Empezar a trabajar en los proyectos que dicte tu profesor
 ```
 
 Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
@@ -71,8 +74,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* Mario Andres Caicedo Jurado
-* German Andres Tulcan Cifuentes
+* **Gustavo Sánchez** 
 
 
 ## Licencia
