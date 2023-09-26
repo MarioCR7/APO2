@@ -1,8 +1,8 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# Titulo del Proyecto
+# Aplicacion de funciones y aplicaciones en java (eclipse)
 
-Un párrafo de la descripción del proyecto va aquí.
+S hace uso de diferentes tipos de funciones 
 
 ## Empezando
 
@@ -71,7 +71,8 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* Mario Andres Caicedo Jurado
+* German Andres Tulcan Cifuentes
 
 
 ## Licencia
