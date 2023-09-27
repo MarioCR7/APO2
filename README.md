@@ -31,6 +31,7 @@ Ir a tu navegador de preferencia y buscar eclipse y descargarlo, en su ultima ve
 Paso 2
 
 ```
+Necesitamos crear una carpeta para guardar los archivos de java
 Crear un packcage de java y una clase con el nombre que prefieras
 Empezar a trabajar en los proyectos que dicte tu profesor
 ```
@@ -74,7 +75,8 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* **German Andres Tulcan Cifuentes**
+* **Mario Andres Caicedo Jurado** 
 
 
 ## Licencia
