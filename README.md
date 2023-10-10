@@ -81,7 +81,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Licencia
 
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
+Este proyecto tiene la licencia MIT; se ha hecho un cambio
 
 ## Expresiones de gratitud (Acknowledgments)
 
