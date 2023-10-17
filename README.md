@@ -1,5 +1,5 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
-daño 1
+
 # Aplicación de tipos de funciones
 
 Se trabaja especificamente con varios conceptos de funciones y lo que trata de ingresar datos por teclado, se hace la utilización de JOptionPane, Scanner, ciclos como el for, while, switch.
