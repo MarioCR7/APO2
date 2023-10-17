@@ -86,6 +86,6 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 
 ## Expresiones de gratitud (Acknowledgments)
 
-Diseño modular: Estructura tu código en módulos o clases con responsabilidades bien definidas. Cada clase o método debería hacer una cosa y hacerla bien. Esto no solo facilita la comprensión, sino también la reutilización del código.
-Ser ingeniero de sistemas es una carrera emocionante y gratificante que ofrece muchas oportunidades para aprender y contribuir al mundo tecnológico.
-Impacto en la Sociedad: La tecnología que los ingenieros de sistemas desarrollan y mantienen tiene un impacto significativo en la sociedad. Desde aplicaciones médicas hasta sistemas de transporte y comunicación, los ingenieros de sistemas contribuyen directamente a mejorar la calidad de vida de las personas.
+*Diseño modular: Estructura tu código en módulos o clases con responsabilidades bien definidas. Cada clase o método debería hacer una cosa y hacerla bien. Esto no solo facilita la comprensión, sino también la reutilización del código.
+*Ser ingeniero de sistemas es una carrera emocionante y gratificante que ofrece muchas oportunidades para aprender y contribuir al mundo tecnológico.
+*Impacto en la Sociedad: La tecnología que los ingenieros de sistemas desarrollan y mantienen tiene un impacto significativo en la sociedad. Desde aplicaciones médicas hasta sistemas de transporte y comunicación, los ingenieros de sistemas contribuyen directamente a mejorar la calidad de vida de las personas.
