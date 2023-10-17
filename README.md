@@ -14,8 +14,9 @@ Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
 Tener instalado eclipse
-Tener conocimiento acerca de las funciones para trabajar mas eficazmente
+Tener conocimiento acerca de las funciones para trabajar más eficazmente
 Tener conocimiento de ciclos
+Saber utilizar los comandos en git
 ```
 
 ### Instalación
